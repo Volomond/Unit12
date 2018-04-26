@@ -1,0 +1,5 @@
+Lord of the rings: king's return, J.Tolkin, 1000000, 23.5, 20.10.1955
+Lord of the rings: brotherhood of the ring, J.Tolkin, 1000000, 25.5, 29.07.1954
+Lord of the rings: two towers, J.Tolkin, 1000000, 15.5, 11.11.1954
+Game of thrones, J.Martin, 100000, 15.5, 06.08.1996
+Withcher, A.Sapkovski, 50000, 10, 12.04.2003
